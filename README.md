@@ -1,1 +1,2 @@
-# Student-Grade-Calculator
+# StudentGradeCalcu
+Student Grade Calculator created using JAVA
